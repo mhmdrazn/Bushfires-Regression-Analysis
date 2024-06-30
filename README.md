@@ -15,6 +15,6 @@ The primary goal of this project is to analyze the weather data from various sub
 The weather data for this project covers the period from December 2023 to February 2024. The data includes information on the Date, Suburb, Time, Status, Location, Area, Minimum temperature (°C), Maximum temperature (°C), Rainfall, Evaporation, Sunshine, Direction Max Wind Gust, Speed of maximum wind gust (km/h), Time of maximum wind gust.
 
 ## Project Structure
-- `Bushfires Dataset/` - File to store the suburb and weather data.
-- `bushfires_regression.ipynb/` - Jupyter notebooks for analysis and modelling.
-- `bushfires_regression.pr/`- Python code for details.
+- `Bushfires Dataset` - File to store the suburb and weather data.
+- `bushfires_regression.ipynb` - Jupyter notebooks for analysis and modelling.
+- `bushfires_regression.pr`- Python code for details.
