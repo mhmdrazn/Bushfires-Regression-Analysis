@@ -1,4 +1,4 @@
-# West Australian Weather Analysis and Linear Regression Model
+# West Australian Weather Analysis with Linear Regression Model
 
 This repository contains a project for analyzing and creating a linear regression model based on the weather data of West Australian suburbs. The data analyzed covers the period from December 2023 to February 2024.
 
