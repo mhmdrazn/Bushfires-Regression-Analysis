@@ -17,4 +17,4 @@ The weather data for this project covers the period from December 2023 to Februa
 ## Project Structure
 - `Bushfires Dataset` - File to store the suburb and weather data.
 - `bushfires_regression.ipynb` - Jupyter notebooks for analysis and modelling.
-- `bushfires_regression.pr`- Python code for details.
+- `bushfires_regression.py`- Python code for details.
